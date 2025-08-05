@@ -6,5 +6,5 @@ Este repositório tem como objetivo documentar e consolidar o processo de aprend
 
 - Compreender a filosofia por trás da linguagem Go;
 - Estudar e praticar a sintaxe essencial;
-- Implementar pequenos programas para fixar os conceitos;
+- Implementar pequenos programas para fixar os conceitos;go
 - Documentar o processo de aprendizado de forma progressiva.
